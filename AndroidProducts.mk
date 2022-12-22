@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_surya.mk
+    $(LOCAL_DIR)/bootleg_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_surya-user \
-    cherish_surya-userdebug \
-    cherish_surya-eng
+    bootleg_surya-user \
+    bootleg_surya-userdebug \
+    bootleg_surya-eng
