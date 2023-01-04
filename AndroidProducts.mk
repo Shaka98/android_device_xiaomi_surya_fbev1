@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_surya.mk
+    $(LOCAL_DIR)/voltage_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_surya-user \
-    cherish_surya-userdebug \
-    cherish_surya-eng
+    voltage_surya-user \
+    voltage_surya-userdebug \
+    voltage_surya-eng
