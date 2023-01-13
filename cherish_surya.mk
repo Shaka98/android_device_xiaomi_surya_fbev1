@@ -35,3 +35,6 @@ $(call inherit-product-if-exists, vendor/gapps/core/config.mk)
 CHERISH_BUILD_TYPE := UNOFFICIAL
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.cherish.maintainer=Shaka98
+
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.product.mod_device=surya_global
