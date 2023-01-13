@@ -27,3 +27,5 @@ TARGET_ENABLE_BLUR := true
 
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 1080
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.product.mod_device=surya_global
