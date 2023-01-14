@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_surya.mk
+    $(LOCAL_DIR)/spark_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_surya-user \
-    cherish_surya-userdebug \
-    cherish_surya-eng
+    spark_surya-user \
+    spark_surya-userdebug \
+    spark_surya-eng
