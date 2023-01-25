@@ -35,7 +35,6 @@ vendor.fps_hal.                    u:object_r:vendor_fp_prop:s0
 vendor.powerhal.                   u:object_r:vendor_power_prop:s0
 
 # Rild
-ro.fota.oem                        u:object_r:vendor_default_prop:s0
 ro.build.software.version          u:object_r:vendor_default_prop:s0
 
 # Sensors
